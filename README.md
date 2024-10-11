@@ -30,9 +30,12 @@ Este projeto é um gerador simples de relatórios em LaTeX que permite ao usuár
 
 3. Instale as dependências necessárias:
     ```bash
-    pip install -r requirements.txt
+    pip install jinja2
     ```
-
+    
+    ```bash
+    LaTeX https://guides.nyu.edu/LaTeX/installation
+    ```
 4. Execute o script:
     ```bash
     python latex.py
